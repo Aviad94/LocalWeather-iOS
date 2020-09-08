@@ -1,5 +1,5 @@
 # LocalWeather-iOS
-<div style="width: 1000px; height 600px;"><img src="Screenshoot/Screenshot-1.png" width="30%" height="30%" align="right"></div>
+<div style="width: 1000px; height 600px;"><img src="https://github.com/Aviad94/LocalWeather-iOS/blob/master/Screenshot/Screenshot-1.png" width="30%" height="30%" align="right"></div>
 
 
 
