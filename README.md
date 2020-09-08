@@ -1,4 +1,6 @@
 <div align="center" style="width: 100px; height 60px;"><img src="https://github.com/Aviad94/LocalWeather-iOS/blob/master/Screenshot/localWeather's%20ss.png" width="60%" height="60%" ></div>
+---
+
 # LocalWeather-iOS
 
 <div style="width: 100px; height 60px;"><img src="https://im.ezgif.com/tmp/ezgif-1-949cbcda7dbf.gif" width="20%" height="20%" align="right"></div>
