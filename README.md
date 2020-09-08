@@ -12,6 +12,7 @@
 - Auto Layout
 - JSON & Codable
 - MVC
+- CoreLocation
 
 
 ## Getting Started
