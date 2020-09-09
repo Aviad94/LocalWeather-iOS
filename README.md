@@ -3,7 +3,7 @@
 
 # LocalWeather-iOS
 
-<div style="width: 100px; height 60px;"><img src="https://im.ezgif.com/tmp/ezgif-1-949cbcda7dbf.gif" width="20%" height="20%" align="right"></div>
+<div style="width: 100px; height 60px;"><img src="https://github.com/Aviad94/LocalWeather-iOS/blob/master/Screenshot/LocalWeather-Gif.gif" width="20%" height="20%" align="right"></div>
 
 
 
