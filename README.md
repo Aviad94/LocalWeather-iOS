@@ -38,7 +38,7 @@
 struct NetworkManager {
 
     
-    private let weatherURL= let weatherURL = "https://api.openweathermap.org/data/2.5/forecast?appid="YOURAPIKEY"&units=metric" 
+    private let weatherURL = "https://api.openweathermap.org/data/2.5/forecast?appid="YOURAPIKEY"&units=metric" 
 ```
 
 
